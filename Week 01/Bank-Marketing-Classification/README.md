@@ -252,7 +252,7 @@ Through this project, I practiced:
 Computer Programming Student | Aspiring AI & Machine Learning Engineer
 
 - GitHub: [@atakalanyer](https://github.com/atakalanyer)
-- LinkedIn: [Ata Kalanyer](https://www.linkedin.com/in/ata-kalanyer/)
+- LinkedIn: [Ata Kalanyer](https://www.linkedin.com/in/atakalanyer/)
 
 ---
 
